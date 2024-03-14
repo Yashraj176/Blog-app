@@ -1,1 +1,1 @@
-Live Link - http://localhost:5173/
+MERN Stack Project of Blog Application.
